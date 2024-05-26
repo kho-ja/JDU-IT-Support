@@ -1,3 +1,6 @@
 [submodule "Group 1"]
 	path = Group 1
 	url = https://github.com/kho-ja/IT-Support-Group-1.git
+[submodule "Group 2"]
+	path = Group 2
+	url = https://github.com/kho-ja/IT-Support-Group-2.git
