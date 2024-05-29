@@ -5,6 +5,8 @@
 // console.log(num);
 
 // ! Data Types
+// Primitive
+// Non-Primitive
 
 // * Primitives
 // 1. Number
@@ -43,12 +45,16 @@ console.log(typeof phrase, phrase);
 
 //* Boolean
 let nameFieldChecked = true; // yes, name field is checked
+console.log(typeof nameFieldChecked, nameFieldChecked);
 let ageFieldChecked = false; // no, age field is not checked
+console.log(typeof ageFieldChecked, ageFieldChecked);
 
 let isGreater = 4 > 1;
+console.log(typeof isGreater, isGreater);
 
 //* null
 let age = null;
+console.log(typeof age, age);
 
 //* undefined
 let undef;
