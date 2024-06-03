@@ -33,8 +33,8 @@
 // // both values converted to numbers before the binary plus
 // console.log(+apples + +oranges); // 5
 
-// increment
-let counter = 1;
-let a = ++counter; // (*) changed ++counter to counter++
+// // increment
+// let counter = 1;
+// let a = counter++; // (*) changed ++counter to counter++
 
-console.log(a); // 1
+// console.log(a); // 1
