@@ -38,3 +38,14 @@
 // let a = counter++; // (*) changed ++counter to counter++
 
 // console.log(a); // 1
+
+// mathematical operations
+//? +, -, *, /, %, **
+// let x = 5;
+// let y = 2;
+// console.log(x + y); // 7
+// console.log(x - y); // 3
+// console.log(x * y); // 10
+// console.log(x / y); // 2.5
+// console.log(x % y); // 1
+// console.log(x ** y); // 25
