@@ -1,0 +1,26 @@
+body {
+  text-align: justify;
+}
+
+table {
+  text-align: center;
+}
+
+table,
+td {
+  border: 1px groove black;
+  border-collapse: collapse;
+  text-align: right;
+}
+
+input {
+  border: 3px solid burlywood;
+  background-color: wheat;
+  color: gray;
+}
+
+button {
+  border: 5px dashed red;
+  color: aqua;
+  background-color: coral;
+}
