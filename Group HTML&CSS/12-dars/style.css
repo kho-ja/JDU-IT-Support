@@ -1,0 +1,21 @@
+.card {
+  background-color: cadetblue;
+  background-image: url(../9-dars/assets/future-supercars.webp);
+  background-size: cover;
+  border: 10px solid black;
+  padding: 10px 20px 30px 40px;
+  width: 100px;
+  height: 80px;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  background-color: coral;
+  padding: 8px 10px 160px 30px;
+}
+
+#nom {
+  background-color: aquamarine;
+  width: 80%;
+  margin-inline: auto;
+}
